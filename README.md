@@ -27,7 +27,7 @@ Average Case: O(n^2)
 Best Case: O(n)
 ```
 
-## Time Complexity: Average case Worst case  Best case 
+## Time Complexity: Average case, Worst case,  Best case 
 ---
 
 ### Worst Case:
@@ -60,3 +60,4 @@ Sıralamada ortada bulunduğu için Average Case e girer.
 5. [2,3,4,5,6,9,8,15,7]
 
 ```
+www.patika.dev
